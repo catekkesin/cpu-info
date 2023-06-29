@@ -1,0 +1,15 @@
+{
+  "name": "cpu-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "arda tekkesin",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
